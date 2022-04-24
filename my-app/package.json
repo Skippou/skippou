@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://skippou.github.io/react-gh-pages",
+  "homepage": "https://skippou.github.io/skippou",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
