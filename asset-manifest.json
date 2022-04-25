@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/skippou/static/css/main.073c9b0a.css",
-    "main.js": "/skippou/static/js/main.ab525410.js",
+    "main.js": "/skippou/static/js/main.dc68fc7f.js",
     "static/js/787.28cb0dcd.chunk.js": "/skippou/static/js/787.28cb0dcd.chunk.js",
     "static/media/gerrit.jpg": "/skippou/static/media/gerrit.7f507f5d6c5aa351159e.jpg",
     "index.html": "/skippou/index.html",
     "main.073c9b0a.css.map": "/skippou/static/css/main.073c9b0a.css.map",
-    "main.ab525410.js.map": "/skippou/static/js/main.ab525410.js.map",
+    "main.dc68fc7f.js.map": "/skippou/static/js/main.dc68fc7f.js.map",
     "787.28cb0dcd.chunk.js.map": "/skippou/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.ab525410.js"
+    "static/js/main.dc68fc7f.js"
   ]
 }
